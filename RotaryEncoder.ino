@@ -2,6 +2,7 @@
 The circuit
 Encoder Pins A, B (center), C
 connect to digital pins Dx and Dy
+Capacitors can rage from .01uF to .1uF
 
             A
             |
